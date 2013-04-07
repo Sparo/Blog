@@ -1,0 +1,14 @@
+parameters:
+    database_driver: pdo_mysql
+    database_host: 127.0.0.1
+    database_port: null
+    database_name: s2blog
+    database_user: s2blog
+    database_password: s2blog
+    mailer_transport: smtp
+    mailer_host: 127.0.0.1
+    mailer_user: null
+    mailer_password: null
+    locale: en
+    secret: 0a210ade4bf23e79dc910f510aa1785a4fc
+    database_path: null
