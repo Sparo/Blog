@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Symfony Standard Edition
 ========================
 
@@ -172,3 +173,9 @@ Enjoy!
 [13]: http://jmsyst.com/bundles/JMSSecurityExtraBundle/master
 [14]: http://jmsyst.com/bundles/JMSDiExtraBundle/master
 [15]: http://symfony.com/doc/2.1/bundles/SensioGeneratorBundle/index.html
+=======
+Blog
+====
+
+PHP Srbija Blog, tutorijal za izradu Blog sajta u Symfony 2 frameworku
+>>>>>>> a03f903c7654721404a523e5b7a826b6cd480f80
