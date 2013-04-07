@@ -178,4 +178,7 @@ Blog
 ====
 
 PHP Srbija Blog, tutorijal za izradu Blog sajta u Symfony 2 frameworku
+<<<<<<< HEAD:README.md
 >>>>>>> a03f903c7654721404a523e5b7a826b6cd480f80
+=======
+>>>>>>> 422ff0676270b8646fbbce7f645e79a5de3eccbe:README_git.md
